@@ -6,3 +6,7 @@ https://en.wikipedia.org/wiki/Tauri https://en.wikipedia.org/wiki/Scythians http
 
 # Linguistics
 https://www.google.com/search?q=cognate
+
+# Art
+https://www.google.com/search?q=Dragons+of+Medea
+https://www.theoi.com/Ther/DrakonesMedea.html
